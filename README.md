@@ -1,16 +1,9 @@
 # covidtracker
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter Covid Tracking Application 
+using REST API 
+API Link: 
+https://disease.sh/v3/covid-19/
+https://disease.sh/v3/covid-19/all
+https://disease.sh/v3/covid-19/countries
+![CovidAPI](https://user-images.githubusercontent.com/64031326/207637720-c92ac90d-1090-4c7c-aa92-57ed02e3d9fe.jpg)
